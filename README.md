@@ -16,7 +16,11 @@ GraphQL is an open-source data query and manipulation language for APIs, and a r
 
 # React functions vs Classes
 
+First of all, the clear difference is the syntax. Just like in their names, a functional component is just a plain JavaScript function that returns JSX. A class component is a JavaScript class that extends React. Component which has a render method.
+
 # React lifecycle
+
+Each component in React has a lifecycle which you can monitor and manipulate during its three main phases. The three phases are: Mounting, Updating, and Unmounting.
 
 # React Redux
 
