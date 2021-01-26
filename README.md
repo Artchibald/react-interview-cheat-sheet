@@ -10,6 +10,10 @@ An application programming interface is a computing interface that defines inter
 
 React Apollo allows you to fetch data from your GraphQL server and use it in building complex and reactive UIs using the React framework. ... In the browser, in React Native, or in Node. js when you want to do server-side rendering.
 
+# AWS Lambda
+
+AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers, creating workload-aware cluster scaling logic
+
 # Fetch API, fetch request
 
 The Fetch API provides a JavaScript interface for accessing and manipulating parts of the HTTP pipeline, such as requests and responses.
@@ -32,7 +36,7 @@ Each component in React has a lifecycle which you can monitor and manipulate dur
 
 # React Redux
 
-React Redux is the official React binding for Redux. It lets your React components read data from a Redux store, and dispatch actions to the store to update data.
+React Redux is the official React binding for Redux. It lets your React components read data from a Redux store, and dispatch actions to the store to update data. Redux is one of the most trending libraries for front-end development in today’s marketplace. It is a predictable state container for JavaScript applications and is used for the entire applications state management. Applications developed with Redux are easy to test and can run in different environments showing consistent behavior.
 
 # React Router
 
@@ -57,3 +61,15 @@ A serverless function is a programmatic function written by a software developer
 # SPA
 
 Single Page Application
+
+# React Apollo custom mutations
+
+When your component renders, useMutation returns a tuple that includes: A mutate function that you can call at any time to execute the mutation
+
+# terraform
+
+# keystone cms
+
+# hux
+
+# circle ci
